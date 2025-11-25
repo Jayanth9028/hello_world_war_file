@@ -1,1 +1,0 @@
-4.0.0 com.example.maven-project maven-project 1.0-SNAPSHOT ../pom.xml server jar Server Logic. ${project.artifactId} junit junit-dep test org.hamcrest hamcrest-core test org.hamcrest hamcrest-library test org.mockito mockito-core test
